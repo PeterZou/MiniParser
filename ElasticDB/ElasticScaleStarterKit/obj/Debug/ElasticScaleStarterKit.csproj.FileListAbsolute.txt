@@ -1,0 +1,16 @@
+C:\Users\v-zojia\Documents\Visual Studio 2015\Samples\ElasticDB\ElasticScaleStarterKit\bin\Debug\ElasticScaleStarterKit.exe.config
+C:\Users\v-zojia\Documents\Visual Studio 2015\Samples\ElasticDB\ElasticScaleStarterKit\bin\Debug\InitializeShard.sql
+C:\Users\v-zojia\Documents\Visual Studio 2015\Samples\ElasticDB\ElasticScaleStarterKit\bin\Debug\ElasticScaleStarterKit.exe
+C:\Users\v-zojia\Documents\Visual Studio 2015\Samples\ElasticDB\ElasticScaleStarterKit\bin\Debug\ElasticScaleStarterKit.pdb
+C:\Users\v-zojia\Documents\Visual Studio 2015\Samples\ElasticDB\ElasticScaleStarterKit\bin\Debug\Microsoft.Azure.SqlDatabase.ElasticScale.Client.dll
+C:\Users\v-zojia\Documents\Visual Studio 2015\Samples\ElasticDB\ElasticScaleStarterKit\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Data.dll
+C:\Users\v-zojia\Documents\Visual Studio 2015\Samples\ElasticDB\ElasticScaleStarterKit\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.dll
+C:\Users\v-zojia\Documents\Visual Studio 2015\Samples\ElasticDB\ElasticScaleStarterKit\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.xml
+C:\Users\v-zojia\Documents\Visual Studio 2015\Samples\ElasticDB\ElasticScaleStarterKit\bin\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Data.xml
+C:\Users\v-zojia\Documents\Visual Studio 2015\Samples\ElasticDB\ElasticScaleStarterKit\bin\Debug\Microsoft.Azure.SqlDatabase.ElasticScale.Client.xml
+C:\Users\v-zojia\Documents\Visual Studio 2015\Samples\ElasticDB\ElasticScaleStarterKit\obj\Debug\ElasticScaleStarterKit.exe
+C:\Users\v-zojia\Documents\Visual Studio 2015\Samples\ElasticDB\ElasticScaleStarterKit\obj\Debug\ElasticScaleStarterKit.pdb
+C:\Users\v-zojia\Documents\Visual Studio 2015\Samples\ElasticDB\ElasticScaleStarterKit\obj\Debug\ElasticScaleStarterKit.csprojResolveAssemblyReference.cache
+C:\Users\v-zojia\Source\Repos\MiniParser\ElasticDB\ElasticScaleStarterKit\bin\Debug\ElasticScaleStarterKit.exe.config
+C:\Users\v-zojia\Source\Repos\MiniParser\ElasticDB\ElasticScaleStarterKit\obj\Debug\ElasticScaleStarterKit.exe
+C:\Users\v-zojia\Source\Repos\MiniParser\ElasticDB\ElasticScaleStarterKit\obj\Debug\ElasticScaleStarterKit.pdb
